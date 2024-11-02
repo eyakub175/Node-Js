@@ -1,0 +1,17 @@
+1. How to create first node js app (npm init --y)
+2. what is package.json 
+3. how to create a node server
+4. make my first node js  web site 
+5. types of responses
+    -res.end();
+    -res.statusCode();
+    -res.setHeader();
+
+6. section of Request
+    -8.1 GET, POST, PUT, DELETE, PATCH
+    -8.2 Request Query String
+    -8.3 Request Headers
+    -8.4 Request JSON object
+
+7. package installation
+
